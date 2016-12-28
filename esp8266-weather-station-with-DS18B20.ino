@@ -1,6 +1,6 @@
 /**The MIT License (MIT)
 
-Copyright for portions of project Foo are held by Daniel Eichhorn 2015 as part of project esp8266-weather-station. 
+Copyright for portions of project project esp8266-weather-station are held by Daniel Eichhorn 2015. 
 All other copyright for project esp8266-weather-station-with-DS18B20 are held by agardek, 2016.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

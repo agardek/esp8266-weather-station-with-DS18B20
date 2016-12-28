@@ -1,8 +1,8 @@
 {
   "name": "ESP8266_SSD1306_DS18B20",
-  "version": "3.2.3",
+  "version": "0.0.1",
   "keywords": "ssd1306, ESP8266, DS18B20, WeatherStation",
-  "description": "A esp8266 weather station with DS18B20 and ssd1306",
+  "description": "A esp8266 weather station with temperature sensor DS18B20 and oled display ssd1306",
   "repository": {
     "type": "git",
     "url": "https://github.com/agardek/esp8266-weather-station-with-DS18B20.git"

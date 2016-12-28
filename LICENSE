@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2016 agardek
+Copyright for portions of project project esp8266-weather-station are held by Daniel Eichhorn 2015. 
+All other copyright for project esp8266-weather-station-with-DS18B20 are held by agardek, 2016.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
